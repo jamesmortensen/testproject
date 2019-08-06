@@ -1,4 +1,4 @@
-This is a quick demo of validatejs being used to validate emails. To run a quick web server, run this from the root of the project to install a simple HTTP web server:
+This is a quick demo of validatejs being used to validate emails. To run a quick web server, run this from the root of the project to install #### a simple HTTP web server:
 
 ```
 $ npm install -g http-server
